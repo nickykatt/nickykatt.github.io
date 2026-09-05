@@ -1,10 +1,23 @@
 theme: minima
+
 title: Weeknotes
+
 description: Product management, digital health and NHS transformation
+
 author: Nicholas Katz
+
 footer: © 2020–2026 Nicholas Katz. All rights reserved.
+
 header_pages:
   - about.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+minima:
+  skin: classic
+
 social_links:
   - title: "Nickykatt repository at GitHub"
     icon: "github"
