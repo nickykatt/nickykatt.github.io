@@ -6,9 +6,9 @@ footer: © 2020–2026 Nicholas Katz. All rights reserved.
 header_pages:
   - about.md
 social_links:
-  - title: Nickykatt repository at GitHub
-     icon: github
-     url: "https://github.com/nickykatt/"
-  - title: Nick at LinkedIn 
-      icon: linkedin-in
-      url: "https://www.linkedin.com/in/nick-katz/"
+  - title: "Nickykatt repository at GitHub"
+    icon: "github"
+    url: "https://github.com/nickykatt/"
+  - title: "Nick at LinkedIn"
+    icon: "linkedin-in"
+    url: "https://www.linkedin.com/in/nick-katz/"
