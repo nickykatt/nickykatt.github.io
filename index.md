@@ -1,7 +1,7 @@
-# Nick Katz
-
 Lead Product Manager at NHS England.
-<img src="assets/images/profile.jpg" alt="Nick Katz" width="200">
+
+
+<img src="assets/images/profile.jpg" alt="Nick Katz" width="800">
 
 
 ## About
