@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Notes from working in Product at NHS England
 ---
 
