@@ -15,3 +15,4 @@ Welcome to my website.
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/nick-katz/)
 nicholaskatz45@gmail.com
+[github](https://github.com/nickykatt)
