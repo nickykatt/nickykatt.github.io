@@ -36,6 +36,9 @@ layout: base
     {{ content }}
   </div>
 
+<link rel="stylesheet" href="{{ '/assets/css/auto.css' | relative_url }}">
+<article class="post h-entry" ...>
+  
   {% if jekyll.environment == 'production' -%}
     {% if page.comments == false -%}
     <div class="comments-disabled-message">
