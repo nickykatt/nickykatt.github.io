@@ -5,11 +5,10 @@ author: Nicholas Katz
 footer: © 2020–2026 Nicholas Katz. All rights reserved.
 header_pages:
   - about.md
-minima:
-  social_links:
-    - title: Nickykatt repository at GitHub
-      icon: github
-      url: "https://github.com/nickykatt/"
-    - title: Nick at LinkedIn 
+social_links:
+  - title: Nickykatt repository at GitHub
+     icon: github
+     url: "https://github.com/nickykatt/"
+  - title: Nick at LinkedIn 
       icon: linkedin-in
       url: "https://www.linkedin.com/in/nick-katz/"
