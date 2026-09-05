@@ -1,8 +1,11 @@
-# Notes from working in Product at NHS England
+---
+layout: home
+title: Notes from working in Product at NHS England
+---
+
 By Nick Katz
 
 Lead Product Manager at NHS England.
-
 
 <img src="assets/images/profile.jpg" alt="Nick Katz" width="800">
 
@@ -20,8 +23,7 @@ Welcome to my website.
 - Project 2
 
 ## Contact
-(https://www.linkedin.com/in/nick-katz/)
+[LinkedIn](https://www.linkedin.com/in/nick-katz/)
 nicholaskatz45@gmail.com
 
 This site is currently under construction.
-``
