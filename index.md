@@ -6,6 +6,11 @@ Lead Product Manager at NHS England.
 
 <img src="assets/images/profile.jpg" alt="Nick Katz" width="800">
 
+## Latest Posts
+
+{% for post in site.posts %}
+  - [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
+{% endfor %}
 
 ## About
 Welcome to my website.
