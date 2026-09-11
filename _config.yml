@@ -8,7 +8,7 @@ author: Nicholas Katz
 
 show_excerpts: true
 
-header_pages:
+nav_pages:
   - about.md
 
 plugins:
@@ -16,7 +16,7 @@ plugins:
   - jekyll-seo-tag
 
 minima:
-  skin: dark
+  skin: classic
 
   social_links:
     - title: Nickykatt repository at GitHub
