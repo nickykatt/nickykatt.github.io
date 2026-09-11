@@ -8,7 +8,7 @@ author: Nicholas Katz
 
 show_excerpts: true
 
-nav_pages:
+header_pages:
   - about.md
 
 plugins:
