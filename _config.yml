@@ -1,8 +1,5 @@
 remote_theme: jekyll/minima
 
-plugins:
-  - jekyll-remote-theme
-
 title: Nickykatt
 
 description: Product management, digital health and NHS transformation
@@ -11,27 +8,22 @@ author: Nicholas Katz
 
 footer: © 2020–2026 Nicholas Katz. All rights reserved.
 
-nav_pages:
+header_pages:
   - about.md
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 minima:
   skin: classic
 
-# social_links:
-  #- title: "Nickykatt repository at GitHub"
-   # icon: "github"
-    #url: "https://github.com/nickykatt/"
-  #- title: "Nick at LinkedIn"
-   # icon: "linkedin-in"
-    #url: "https://www.linkedin.com/in/nick-katz/"
 social_links:
-   - title: Minima Theme repository at GitHub
-     icon: github
-     url: "https://github.com/jekyll/minima"
-   - title: Jekyll at X (formerly Twitter)
-     icon: x-twitter
-     url: "https://x.com/jekyllrb"
+  - title: Nickykatt repository at GitHub
+    icon: github
+    url: https://github.com/nickykatt/
+  - title: Nick at LinkedIn
+    icon: linkedin-in
+    url: https://www.linkedin.com/in/nick-katz/
+
