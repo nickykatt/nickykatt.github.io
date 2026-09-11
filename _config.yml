@@ -5,8 +5,8 @@ title: Nickykatt
 description: Product management, digital health and NHS transformation © 2020–2026 Nicholas Katz. All rights reserved.
 
 author: Nicholas Katz
-
-show_excerpts: true
+  name: Nicholas Katz
+  email: nicholaskatz45@gmailcom
 
 header_pages:
   - about.md
@@ -18,16 +18,21 @@ plugins:
 minima:
   skin: classic
   social_links:
-    - title: Nickykatt repository at GitHub
-      icon: github
-      url: https://github.com/nickykatt/
-    - title: Nick at LinkedIn
-      icon: linkedin-in
-      url: https://www.linkedin.com/in/nick-katz/
-    - title: Email 
-      icon: email
-      url: mailto:nicholaskatz45@gmail.com
+    - { icon: "github", title: "Minima Theme repository at GitHub", url: "https://github.com/jekyll/minima" }
+    - { icon: "x-twitter", title: "Jekyll profile at X (formerly Twitter)", url: "https://x.com/jekyllrb" }
+  show_excerpts: true
 
-github_username:  nickykatt
-linkedin_username: nick-katz
-instagram_username: nickykatt
+#   social_links:
+  #   - title: Nickykatt repository at GitHub
+  #    icon: github
+  #    url: https://github.com/nickykatt/
+  #  - title: Nick at LinkedIn
+  #    icon: linkedin-in
+  #    url: https://www.linkedin.com/in/nick-katz/
+  #  - title: Email 
+  #    icon: email
+  #    url: mailto:nicholaskatz45@gmail.com
+
+# github_username:  nickykatt
+# linkedin_username: nick-katz
+# instagram_username: nickykatt
