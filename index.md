@@ -4,9 +4,7 @@ title: Nailing jelly to the wall
 nav_exclude: true
 ---
 
-Hello! 
-
-Pleased to meet you.
+Hello! Pleased to meet you.
 
 I'm Nick, a Product Manager working for NHS England.
 
@@ -20,7 +18,4 @@ I'm hoping you will find it insightful and mildly amusing.
 
 <img src="assets/images/profile.jpg" alt="10sc" width="800">
 
-## Contact
-[LinkedIn](https://www.linkedin.com/in/nick-katz/)
-[Email](nicholaskatz45@gmail.com)
-[github](https://github.com/nickykatt)
+##Posts
