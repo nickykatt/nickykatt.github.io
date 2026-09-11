@@ -21,10 +21,17 @@ plugins:
 minima:
   skin: classic
 
+# social_links:
+  #- title: "Nickykatt repository at GitHub"
+   # icon: "github"
+    #url: "https://github.com/nickykatt/"
+  #- title: "Nick at LinkedIn"
+   # icon: "linkedin-in"
+    #url: "https://www.linkedin.com/in/nick-katz/"
 social_links:
-  - title: "Nickykatt repository at GitHub"
-    icon: "github"
-    url: "https://github.com/nickykatt/"
-  - title: "Nick at LinkedIn"
-    icon: "linkedin-in"
-    url: "https://www.linkedin.com/in/nick-katz/"
+   - title: Minima Theme repository at GitHub
+     icon: github
+     url: "https://github.com/jekyll/minima"
+   - title: Jekyll at X (formerly Twitter)
+     icon: x-twitter
+     url: "https://x.com/jekyllrb"
