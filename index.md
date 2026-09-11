@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Nailing jelly to the wall 
+nav_exclude: true
 ---
 
 Hello! 
