@@ -21,5 +21,5 @@ I'm hoping you will find it insightful and mildly amusing.
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/nick-katz/)
-nicholaskatz45@gmail.com
+[Email](nicholaskatz45@gmail.com)
 [github](https://github.com/nickykatt)
