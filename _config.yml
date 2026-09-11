@@ -2,11 +2,11 @@ remote_theme: jekyll/minima
 
 title: Nickykatt
 
-description: Product management, digital health and NHS transformation
+description: Product management, digital health and NHS transformation © 2020–2026 Nicholas Katz. All rights reserved.
 
 author: Nicholas Katz
 
-footer: © 2020–2026 Nicholas Katz. All rights reserved.
+show_excerpts: true
 
 header_pages:
   - about.md
