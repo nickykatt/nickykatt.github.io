@@ -16,6 +16,6 @@ Below you will find some of my writing reflecting on what has happened in the pa
 
 I'm hoping you will find it insightful and mildly amusing. 
 
-<img src="assets/images/profile.jpg" alt="10sc" width="800">
+<img src="assets/images/autumn.jpg" alt="10sc" width="800">
 
 ##Posts
