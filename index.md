@@ -6,12 +6,12 @@ nav_exclude: true
 
 Hello, I'm Nick. 👋
 
-I'm a Lead Product Manager at NHS England, working on digital services for Patients and Staff. Before that I spent 15 years in agencies, financial Services and a startup of my own.
+I'm a Product Manager at NHS England, working on improving services for Patients and Staff. Before that I spent 15 years in agencies, financial Services and running a startup of my own.
 
-Moving into the public sector has changed how I think about product, so I'm trying to <a href="https://roadmap-for-modern-digital-government.campaign.gov.uk/transparency/working-in-the-open/" target="_blank" rel="noopener noreferrer">work in the open</a>. This site is where I write it down: <a href="https://medium.com/@jukesie/the-why-of-weeknotes-c1cd98967842" target="_blank" rel="noopener noreferrer">weeknotes</a> on what happened and what I learned, and longer pieces when something warrants more thinking.
+Moving into the public sector has changed how I think about product, so I'm starting to <a href="https://roadmap-for-modern-digital-government.campaign.gov.uk/transparency/working-in-the-open/" target="_blank" rel="noopener noreferrer">work in the open</a>. This site is where I write it down: <a href="https://medium.com/@jukesie/the-why-of-weeknotes-c1cd98967842" target="_blank" rel="noopener noreferrer">weeknotes</a> on what happened and what I learned, and longer pieces when something requires deeper thinking.
 
-The name comes from an old idiom: how do you eat an elephant? One bite at a time. That's how most big problems in the NHS get solved, too.
+The name of the site comes from the idiom, 'how do you eat an elephant? One bite at a time'. The NHS has many big, complex problems and it's my job to help break these down into bitesized, value-focused pieces. 
 
-I hope you'll find it useful, and mildly amusing.
+I hope you'll find it useful, and mildly amusing (I share some of my attempts at parenting too).
 
 <img src="assets/images/autumn.jpg" alt="10sc" width="800">
