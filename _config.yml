@@ -18,8 +18,8 @@ plugins:
 minima:
   skin: classic
   social_links:
-    - { icon: "github", title: "Minima Theme repository at GitHub", url: "https://github.com/jekyll/minima" }
-    - { icon: "x-twitter", title: "Jekyll profile at X (formerly Twitter)", url: "https://x.com/jekyllrb" }
+    - { icon: "github", title: "Nickykatt at GitHub", url: "https://github.com/nickykatt/" }
+    - { icon: "email", title: "nicholaskatz45@gmail.com", url: "mailto:nicholaskatz45@gmail.com" }
   show_excerpts: true
 
 #   social_links:
