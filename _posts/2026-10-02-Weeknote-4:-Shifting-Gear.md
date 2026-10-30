@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weeknote 4 - Shifting gear"
-date: 2026-09-25
+date: 2026-10-02
 ---
 
 I've hit the 30-day mark and am reviewing the objectives in my plan. Unsurprisingly, the listening and understanding phase will be an ongoing endeavour (!), but I now have clear signals about where to apply my focus.
