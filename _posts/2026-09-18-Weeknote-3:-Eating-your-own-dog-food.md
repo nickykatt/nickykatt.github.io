@@ -4,13 +4,11 @@ title: "Weeknote 3 - Eating your own dog food?"
 date: 2026-09-18
 ---
 
-## A slight wobble
-
 My boss returned to work this week and, somewhat unexpectedly, it triggered a worry that I hadn't delivered to expectations. A useful reminder that the listen-and-understand phase doesn't always feel productive, even when it is.
 
 I'm also finding collaboration with peers on a shared workstream harder than expected. Building trust across Lead PMs takes time, and I'm working on it.
 
-## App-led or API-led?
+## App-led or API-led and eating your own dog food
 
 I met with Rourke, Head of Transformation and Onboarding, to discuss our API strategy and the interesting dichotomy between being App-led or API-led. Right now the API team are often playing catch-up with the Professional App team, but to be truly API-first: the Professional App should be a *customer* of the API. This is where the term "eating your own dog food" comes in and it's relevant. 
 
