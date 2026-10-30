@@ -4,9 +4,9 @@ title: "Weeknote 2 - Getting a hold (finger tips)"
 date: 2026-09-11
 ---
 
-I'm starting to get a feel for the rhythm of the Referrals and Appointments programme, who the people to go to are, and what is most important to focus on.
+#Weeknote 2 - Getting a hold (finger tips)
 
-We are mid Q3 planning and I'm digging into the plans the teams are pulling together, to make sure there is a clear strategic thread back to what has been presented as SLT priorities.
+I'm starting to get a feel for the rhythm of the Referrals and Appointments programme, who the people to go to are, and what is most important to focus on. We are mid Q3 planning and I'm digging into the plans the teams are pulling together, to make sure there is a clear strategic thread back to what has been presented as SLT priorities.
 
 Due to some delivery challenges over the last 6 months, there is some tension around delivering against the detail in the SOW. This is unfortunate because, ultimately, the stronger the trust between a supplier and the commissioning organisation, the less likely you are to need to revert to and scrutinise what is in the SOW.
 
