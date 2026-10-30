@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weeknote 1 - Beyond Primary Care"
-date: 2026-10-30
+date: 2026-09-04
 ---
 
 # Farewell to Primary Care
