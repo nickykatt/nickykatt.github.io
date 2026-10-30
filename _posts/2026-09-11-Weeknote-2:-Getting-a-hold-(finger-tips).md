@@ -4,7 +4,7 @@ title: "Weeknote 2 - Getting a hold (finger tips)"
 date: 2026-09-11
 ---
 
-#Weeknote 2 - Getting a hold (finger tips)
+# Weeknote 2 - Getting a hold (finger tips)
 
 I'm starting to get a feel for the rhythm of the Referrals and Appointments programme, who the people to go to are, and what is most important to focus on. We are mid Q3 planning and I'm digging into the plans the teams are pulling together, to make sure there is a clear strategic thread back to what has been presented as SLT priorities.
 
