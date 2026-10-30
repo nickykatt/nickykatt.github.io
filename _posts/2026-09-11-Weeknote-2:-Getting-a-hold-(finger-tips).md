@@ -50,7 +50,7 @@ Over lunch we discussed the rollercoaster of starting a new role in NHSE when co
 4. **You push harder:** because you are resilient and experienced, you can handle a lot.
 5. **It's too much and you crash:** the organisation can't change at pace, and driving any change means bringing a stakeholder army on the journey with you. This can happen in a month or in 2 years!
 
-<img src="catastrophe_rollercoaster.svg" alt="10sc" width="800">
+<img src="{{ '/assets/images/catastrophe_rollercoaster.svg' | relative_url }}" alt="Catastrophe rollercoaster" width="800">
 
 This is dangerous territory: you start to question your own skills and abilities, and it's important to have some self-compassion. It's really important to remain a player in the game. You do not want to become a <a href="https://leadershiplaboratory.beehiiv.com/p/players-passengers-prisoners" target="_blank" rel="noopener noreferrer">prisoner or passenger</a>.
 
