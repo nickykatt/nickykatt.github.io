@@ -53,10 +53,10 @@ However, it's clear there is currently a tension between the permanent staff and
 
 ## Some links this week
 
-- Part of my new intent:<a href="https://jennywanger.com/articles/influence-doesnt-come-with-the-promotion/?mkt_tok=MTg1LUxRVy0zNzAAAAGkG-XgAiVyOOmciCnd0Ec3nVdAWyEGrPDGWBATwtQewY9I6Vm-mI9zsDM2_3Qu7wrDKpgXnWCL6TbZ_S1rsyS5L-nIQ6pDkZIYaH5RerzD3-CfBIuG" target="_blank" rel="noopener noreferrer">Influence vs persuasion</a>
-- Who will be first to move with AI on our Patient Health Records: [OpenAI introduces EHR and public data integration into ChatGPT for healthcare](https://htn.co.uk/2026/09/03/openai-introduces-ehr-and-public-data-integration-into-chatgpt-for-healthcare/){:target="_blank" rel="noopener"}
-- Nice post by Alex DS on complexity: [Weeknote 9 - Drawing dragons](https://www.designswarm.com/blog/2026/09/weeknote-9-drawing-dragons/){:target="_blank" rel="noopener"}
+- Part of my new intent: <a href="https://jennywanger.com/articles/influence-doesnt-come-with-the-promotion/?mkt_tok=MTg1LUxRVy0zNzAAAAGkG-XgAiVyOOmciCnd0Ec3nVdAWyEGrPDGWBATwtQewY9I6Vm-mI9zsDM2_3Qu7wrDKpgXnWCL6TbZ_S1rsyS5L-nIQ6pDkZIYaH5RerzD3-CfBIuG" target="_blank" rel="noopener noreferrer">Influence vs persuasion</a>
+- Who will be first to move with AI on our Patient Health Records: <a href="https://htn.co.uk/2026/09/03/openai-introduces-ehr-and-public-data-integration-into-chatgpt-for-healthcare/" target="_blank" rel="noopener noreferrer">OpenAI introduces EHR and public data integration into ChatGPT for healthcare</a>
+- Nice post by Alex DS on the scale and complexity of design in the NHS: <a href="https://www.designswarm.com/blog/2026/09/weeknote-9-drawing-dragons/" target="_blank" rel="noopener noreferrer">Weeknote 9: on drawing dragons</a>
 
 ***
 
-Watched Nolan's Odyssey this week, meh. The kids are back to school; they seem ready. Brockwell Lido is getting cold. Enjoying practising a new slower kick technique while swimming.
+Watched Nolan's Odyssey this week, 7/10... The kids are back to school; they seem ready. Brockwell Lido is getting cold. Enjoying practising a new slower kick technique while swimming.
