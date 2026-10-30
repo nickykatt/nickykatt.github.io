@@ -2,7 +2,7 @@
 layout: post
 title: "Week 6 - Room to Plan"
 categories: weeknotes, strategy
-modified_date: 2026-10-02
+modified_date: 2026-10-16
 ---
 
 This week I attended Strategic Room Planning, we released the SPoA MVP changes, I worked on criteria for establishing product gates in our governance, and I officially started feeding into the transformation strategy.
