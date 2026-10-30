@@ -4,8 +4,6 @@ title: "Weeknote 1 - Beyond Primary Care"
 date: 2026-09-04
 ---
 
-# Farewell to Primary Care
-
 This was my first real week in Referrals and Appointments. It took me a while to move as I had to hand over my previous role in Digital Primary Care ("DPC").
 
 In my two-and-a-half years in Primary Care I wasn't managing your typical digital product or portfolio. Instead I owned the mechanism we use to implement change (from our national centre) into external, privately owned General Practice IT suppliers, also known as <a href="https://www.health.org.uk/reports-and-analysis/analysis/electronic-patient-record-systems-in-england-what-do-nhs-staff-think" target="_blank" rel="noopener noreferrer">Electronic Patient Record ("EPR")</a> Systems. The main focus of this role was working cross-organisationally to "shape-up" changes to be published onto the GPIT roadmap, from flagship national propositions like Vaccinations, Proxy Access and HealthCheck Online, to smaller urgent changes that may affect patient safety or clinical risk.
