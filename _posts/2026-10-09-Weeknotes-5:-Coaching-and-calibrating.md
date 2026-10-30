@@ -3,7 +3,7 @@ layout: post
 title: "Week 5 - Coaching and Calibrating"
 categories: weeknotes, opportunity sizing
 meta: "kings"
-date: 2026-10-02
+date: 2026-10-09
 ---
 
 Another busy week: more careful management of a controversial product feature, some opportunity sizing and benefits work, and a brilliant chat with a product coach who helped me recalibrate my focus towards organisational outcomes.
