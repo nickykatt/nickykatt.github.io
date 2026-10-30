@@ -4,19 +4,19 @@ title: "Weeknote 1 - Beyond Primary Care"
 date: 2026-10-30
 ---
 
-## Farewell to Primary Care
+# Farewell to Primary Care
 
 This was my first real week in Referrals and Appointments. It took me a while to move as I had to hand over my previous role in Digital Primary Care ("DPC").
 
-In my two-and-a-half years in Primary Care I wasn't managing your typical digital product or portfolio. Instead I owned the mechanism we use to implement change (from our national centre) into external, privately owned General Practice IT suppliers, also known as Electronic Patient Record ("EPR") Systems. The main focus of this role was working cross-organisationally to "shape-up" changes to be published onto the GPIT roadmap, from flagship national propositions like Vaccinations, Proxy Access and HealthCheck Online, to smaller urgent changes that may affect patient safety or clinical risk.
+In my two-and-a-half years in Primary Care I wasn't managing your typical digital product or portfolio. Instead I owned the mechanism we use to implement change (from our national centre) into external, privately owned General Practice IT suppliers, also known as <a href="https://www.health.org.uk/reports-and-analysis/analysis/electronic-patient-record-systems-in-england-what-do-nhs-staff-think" target="_blank" rel="noopener noreferrer">Electronic Patient Record ("EPR")</a> Systems. The main focus of this role was working cross-organisationally to "shape-up" changes to be published onto the GPIT roadmap, from flagship national propositions like Vaccinations, Proxy Access and HealthCheck Online, to smaller urgent changes that may affect patient safety or clinical risk.
 
 Although the role was very challenging, for a plethora of reasons, it was also hugely rewarding. It was a great way to start my journey into two new areas, the public sector and healthcare, and it gave me a deep understanding and experience of the systemic challenges the NHS has around delivering innovative products and services. I will write more about GPIT in depth in another post.
 
 ## The new role
 
-I was ready to take that learning and apply it to a new area, one that had real national-scale impact, and a product built "for the NHS by the NHS", aligned with the value extolled by the Digital Prevention Services Portfolio. The Electronic Referrals Service is a great example of where we, as a national digital centre, have a strong right to play and can build something that helps to join up services, improve patient pathways and reduce clinical burden.
+I was ready to take that learning and apply it to a new area, one that had real national-scale impact, and a product built <a href="https://www.digital-prevention-services.nhs.uk/" target="_blank" rel="noopener noreferrer">"for the NHS by the NHS"</a>, aligned with the value extolled by the Digital Prevention Services Portfolio. <a href="https://digital.nhs.uk/services/e-referral-service" target="_blank" rel="noopener noreferrer">The Electronic Referrals Service</a> is a great example of where we, as a national digital centre, have a strong right to play and can build something that helps to join up services, improve patient pathways and reduce clinical burden.
 
-It exists closely with other key national platforms like Patient Care Aggregator (aka Wayfinder) and the Booking and Referrals Standard (aka BaRS), which helps join up hospital EPR systems and allow patients to see their appointments in the NHS App.
+It exists closely with other key national platforms like <a href="https://digital.nhs.uk/services/patient-care-aggregator" target="_blank" rel="noopener noreferrer">Patient Care Aggregator</a> (aka Wayfinder) and the <a href="https://digital.nhs.uk/services/booking-and-referral-standard" target="_blank" rel="noopener noreferrer">Booking and Referrals Standard </a>(aka BaRS), which helps join up hospital EPR systems and allow patients to see their appointments in the NHS App.
 
 As expected, there's a lot going on in Referrals and Appointments, and with a steep learning curve typical of working in NHS England I now have a lot of reading up, intro meetings and work to do to get up to speed.
 
@@ -53,7 +53,7 @@ However, it's clear there is currently a tension between the permanent staff and
 
 ## Some links this week
 
-- Part of my new intent: Influence vs persuasion
+- Part of my new intent:<a href="https://jennywanger.com/articles/influence-doesnt-come-with-the-promotion/?mkt_tok=MTg1LUxRVy0zNzAAAAGkG-XgAiVyOOmciCnd0Ec3nVdAWyEGrPDGWBATwtQewY9I6Vm-mI9zsDM2_3Qu7wrDKpgXnWCL6TbZ_S1rsyS5L-nIQ6pDkZIYaH5RerzD3-CfBIuG" target="_blank" rel="noopener noreferrer">Influence vs persuasion</a>
 - Who will be first to move with AI on our Patient Health Records: [OpenAI introduces EHR and public data integration into ChatGPT for healthcare](https://htn.co.uk/2026/09/03/openai-introduces-ehr-and-public-data-integration-into-chatgpt-for-healthcare/){:target="_blank" rel="noopener"}
 - Nice post by Alex DS on complexity: [Weeknote 9 - Drawing dragons](https://www.designswarm.com/blog/2026/09/weeknote-9-drawing-dragons/){:target="_blank" rel="noopener"}
 
