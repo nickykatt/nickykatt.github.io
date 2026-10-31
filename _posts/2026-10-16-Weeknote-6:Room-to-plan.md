@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week 6: Planning and governance"
+title: "Weeknote 6: Planning and governance"
 categories: weeknotes, strategy
 date: 2026-10-16
 ---
