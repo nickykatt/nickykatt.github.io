@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weeknote 4 - Shifting gear"
+title: "Weeknote 4: Shifting up a gear"
 date: 2026-10-02
 ---
 
