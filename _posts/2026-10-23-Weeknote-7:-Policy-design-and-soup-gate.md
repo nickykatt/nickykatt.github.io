@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Week 7 - Shaping the Rules"
+title: "Weeknote 7: Policy design and "soup gate" (longer read)"
 categories: weeknotes, policy design
 modified_date: 2026-10-23
 ---
 
-This week I became more integrated into the Transformation team. I'm picking up the signals about what matters most for our product, and getting a better sense of what we're aiming to achieve through the transformation strategy.
+This week integrated into the Transformation team, I'm feeling more confident about what matters most for our product, and getting a better sense of what we're aiming to achieve through the transformation strategy.
 
 I also attended an NHS App design assurance gate to discuss a live, joined-up opportunity between the App and Referrals and Appointments. It was good to see how we apply the NHS service standard between Alpha and Private Beta.
 
@@ -17,17 +17,19 @@ e-RS is a big platform and, like the NHS itself, its scale is hard to grasp. <a 
 - **2.4m** Advice and Guidance (A&G) outcomes (+19% year on year)
 - **1.6m** A&G outcomes returned with advice (+19% year on year)
 
-That's around 55,000 referrals a day, or nearly 80,000 every working day.
+That's nearly 80,000 referrals every working day.
 
-And yet, when I visited my GP this week and asked about e-RS, she didn't know what I was talking about! Her practice uses EMIS, which integrates e-RS via the API and embeds key e-RS screens, so it feels like part of the clinical system. She also told me she doesn't manage referrals at all; that's done by the admin staff. These are the insights I need to get closer to day-to-day.
+And yet, when I visited my GP this week and asked about e-RS, she didn't know what I was talking about(!). Her practice uses Enlivio (EMIS), which integrates e-RS via the API and embeds key e-RS screens, so it feels like part of the clinical system. She also told me that in their practice she doesn't manage referrals at all, that's done by the admin staff. These are the obvious insights I need to get closer to in my day-to-day. 
 
 I've also finally got access to the e-RS INT (integration test) environment. I'm familiar with the journeys, but it's a relief to be able to channel my inner referrer and service provider, form my own opinions of the UI, and have deeper conversations with users.
 
 ### Re-platforming
 
-The big question is how we approach the platform itself. There's strong confidence in the value of uplifting the technical foundations to a more responsive, modular platform, something a Google or Amazon would do without blinking. Here, we must justify the cost and show evidence that the investment is worth it.
+The big question is how we approach re-platforming itself. There's strong confidence around the value of uplifting the technical foundations to a more responsive, modular platform, something a private-sector organisation would do without blinking. Here, it's harder to justify the cost over other high priority changes, you need to show evidence that the investment is worth it.
 
-Thankfully, we have technically fluent executive leadership. In one of our weekly Thursday evening updates, it was great to hear our exec set the expectation that "this is going to take a long time" and back the re-platforming work. Like most national digital services, the platform needs a tidy-up. All technology does as environments move to the cloud and standards evolve, but it's always harder to justify than the latest policy priority or care pathway, especially in the public sector.
+Thankfully, we have technically minded leadership. In one of our weekly Thursday evening updates, it was great to hear them set the expectation that “this is going to take a long time” and back the re-platforming work.
+
+Like most national digital services that have grown over many years, the platform has built up technical debt: ageing dependencies, tightly coupled components, and infrastructure designed for a different hosting model. All technology needs ongoing maintenance, whether that’s moving to modern cloud-native infrastructure, keeping up with security patching and supported versions, or adapting to evolving standards like FHIR and NHS interoperability requirements. But that work is always harder to justify than the latest policy priority or care pathway, especially in the public sector, because its value shows up as reduced risk and faster future delivery rather than a visible new feature.
 
 ### Policy design
 
@@ -47,7 +49,7 @@ This is something I've wrestled with a lot since joining. In such a complex envi
 4. Align on outcomes and gather evidence
 5. Create a safe space to learn together
 
-Every day is a school day. Although I have 17 years' experience shipping digital services to consumers, I'm still learning a lot about policymaking, policy design, and how we can innovate more effectively as a blended team with policy colleagues.
+Every day is a school day and although I have 17 years' experience shipping digital services to consumers I'm still learning a lot about policymaking, policy design, and how we can innovate more effectively as a blended team with policy colleagues.
 
 ### Mapping the policy landscape
 
@@ -68,13 +70,13 @@ We're working towards a workshop with senior policy colleagues invested in Refer
 
 - <a href="https://www.england.nhs.uk/publication/reforming-elective-care-for-patients/" target="_blank" rel="noopener noreferrer">Reforming elective care for patients</a> - NHS England
 - <a href="https://www.england.nhs.uk/long-read/letter-specialist-advice-elective-single-point-of-access/" target="_blank" rel="noopener noreferrer">Specialist advice and elective SPoA letter</a> - NHS England
-- <a href="https://healthcareleadernews.com/news/icbs-must-develop-delivery-plan-for-advice-and-guidance/" target="_blank" rel="noopener noreferrer">A&G operational framework</a> - Healthcare Leader
 
 **Tier 4: Operational frameworks**
 
 - <a href="https://htn.co.uk/2025/04/03/operational-delivery-framework-for-icbs-minimum-standards-for-digital-platforms/" target="_blank" rel="noopener noreferrer">A&G framework (April 2025)</a> - HTN
 - <a href="https://www.england.nhs.uk/wp-content/uploads/2025/03/prn01903-advice-and-guidance-enhanced-service-2025-26-v1.2.pdf" target="_blank" rel="noopener noreferrer">A&G Enhanced Service 2025/26 (PDF)</a> - NHS England
 - <a href="https://www.england.nhs.uk/long-read/outpatient-services-a-clinical-and-operational-improvement-guide/" target="_blank" rel="noopener noreferrer">Outpatient services improvement guide</a> - NHS England
+- <a href="https://healthcareleadernews.com/news/icbs-must-develop-delivery-plan-for-advice-and-guidance/" target="_blank" rel="noopener noreferrer">A&G operational framework</a> - Healthcare Leader
 
 **Tier 5: Technical and implementation detail**
 
@@ -88,7 +90,7 @@ We're working towards a workshop with senior policy colleagues invested in Refer
 
 We also looked at examples of good and bad policy design, and at a lot of the GDS thinking on how to do policy design better. There's a tonne of good content from Policy Lab for me to dive into (links below). Perhaps one day I'll contribute to the canon! A few examples that stood out:
 
-- **Organ donation opt-out** changed the default, then supported families to follow it.
+- **Organ donation opt-out** changed the default from starting with being opted-in, then supported families to follow it.
 - **Getting It Right First Time** changed surgical practice using data and peer pressure, not rules.
 - **Open Banking** used a legal order and a shared standard to open up bank data.
 
