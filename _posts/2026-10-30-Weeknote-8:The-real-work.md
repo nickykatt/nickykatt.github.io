@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week 8 - Joining Up with Policy"
+title: "Weeknote 8: Working closer with Policy"
 categories: weeknotes, policy design
 modified_date: 2026-10-30
 ---
