@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week 6 - Room to Plan"
+title: "Week 6: Planning and governance"
 categories: weeknotes, strategy
 date: 2026-10-16
 ---
@@ -17,7 +17,7 @@ As part of establishing best practices in our Portfolio I have developed a few t
 
 I've also been thinking about a term I keep coming across: <a href="https://www.welcometothejungle.com/en/articles/cal-newport-slow-productivity-hustle-culture" target="_blank" rel="noopener noreferrer">slow productivity</a>. It feels especially pertinent now that AI tools are significantly increasing teams' output and creating a different type of work. As AI is used more and more commonly in our day-to-day you can easily spot it, it looks good but requires a lot of unpicking and tightening of language. I came across the term <a href="https://fs.blog/slop-grenade/" target="_blank" rel="noopener noreferrer">slop grenade</a> on LinkedIn describing when someopne sends you a lot of AI output without reviewing it themselves.
 
-I had a great chat a colleague on the train back from Leeds about the history of GDS and what it has achieved, policy labs and policy design, and the difference between theorists and people who can deliver real change.
+I had a great chat with a colleague on the train back from Leeds about the history of GDS and what it has achieved, policy labs and policy design, and the difference between theorists and people who deliver real change - it's was really refreshing and motivating to hear.
 
 ## Links
 
