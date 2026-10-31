@@ -48,4 +48,6 @@ Meanwhile, I'm writing a paper for transformation and trying to wrestle it into 
 
 The boys are on half term, so the house is busy. Remembrance poppies and a brass band playing return of the Jedi in Canary Wharf station. Finished listening to Jon Ronson's The Castle, interesting reflections on masculinity and purpose... My son also created this sculpture out of Montessori counting materials, I think it looks very Dune-esque, like a Spice harvester: 
 
+<img src="assets/images/Spice Extractor.jpeg" alt="10sc" width="800">
+
 
