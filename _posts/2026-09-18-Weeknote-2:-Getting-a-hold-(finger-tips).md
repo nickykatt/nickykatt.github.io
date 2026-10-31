@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weeknote 2 - Getting a hold (finger tips)"
+title: "Weeknote 2: Getting a hold (finger tips)"
 date: 2026-09-18
 ---
 
