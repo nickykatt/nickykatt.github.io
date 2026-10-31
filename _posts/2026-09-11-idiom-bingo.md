@@ -4,6 +4,8 @@ title: "Idiom bingo: Some of my favourite idioms I have picked up at NHSE"
 categories: misc
 ---
 
+A good idiom can really help one to get a better grasp on a complex problem, it can successfully describe the scale of the challenge and build empathy from colleagues - it can also lighten the mood!
+
 ## Drinking from the fire hose 
 A common sensation working here and trying to get up to speed, so much documentation, so many strategies, so much technical, product, market, user context to understand and so much to deliver at the same time. 
 
