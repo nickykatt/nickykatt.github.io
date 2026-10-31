@@ -7,15 +7,11 @@ modified_date: 2026-10-30
 
 This week we held our policy workshop to explore how we can be more joined up with our Elective policy colleagues. We're also working up technical options papers to take to leadership as we navigate our way into transformation.
 
-### Who owns what
-
-Teams here can be disparate. In my private sector product roles, I had much more direct control over things like benefits and opportunity cases. Here, those responsibilities are spread across several teams, so a big part of the job is joining them up.
-
 ### The policy workshop
 
-We ran a great workshop today, getting closer to our colleagues in Elective and understanding their views on the rules, incentives and practices currently in place around clinician messaging, Advice and Guidance (A&G), and administration.
+We ran a great workshop on Tuesday, getting closer to our colleagues in Elective and understanding their views on the rules, incentives and practices currently in place around clinician messaging, Advice and Guidance (A&G), and administration.
 
-We thought about some of the headline metrics. Who feels most on the hook for RTT and the 18-week constitutional standard for time to treatment: the referrer or the service provider? How does that break down into the 5-day A&G metric and the time to first decision?
+We discussed some of the headline metrics: Who feels most on the hook for RTT and the 18-week constitutional standard for time to treatment, the referrer or the service provider? How does that break down into the 5-day A&G metric and the time to first decision?
 
 If we can align on the policy outcomes, can we also align on digital experiments to see which are most effective at driving behaviour change and delivering our joint outcomes? It's really exciting to think that this work could affect all of us at such critical moments in our lives.
 
@@ -37,9 +33,11 @@ Clinician messaging should be protected for queries that affect patient care and
 
 This is really exciting for me. After 2.5 years of frontline management of the GPIT EPR suppliers, I'm now at the other end of the spectrum, working directly with policymakers. I've found myself on the biggest, most complex national product, at the crux of real transformational change, with policy colleagues engaged and a genuine opportunity to do something disruptive.
 
-Meanwhile, I'm writing a paper for transformation and trying to wrestle it into shape...
+### Who owns what
 
-I've never been comfortable in my career. I'm always moving, always learning, always trying.
+Teams here can be disparate. In private sector product roles I had much more direct control over things like benefits and opportunity cases. Here, those responsibilities are spread across several teams, so a big part of the job is joining them up. 
+
+Meanwhile, I'm writing a paper for transformation and trying to wrestle it into shape...
 
 ## Links
 
@@ -48,4 +46,6 @@ I've never been comfortable in my career. I'm always moving, always learning, al
 
 ***
 
-The boys are on half term, so the house is busy. Remembrance poppies and a brass band playing return of the Jedi in Canary Wharf station. Finished listening to Jon Ronson's The Castle, interesting reflections on masculinity and purpose...
+The boys are on half term, so the house is busy. Remembrance poppies and a brass band playing return of the Jedi in Canary Wharf station. Finished listening to Jon Ronson's The Castle, interesting reflections on masculinity and purpose... My son also created this sculpture out of Montessori counting materials, I think it looks very Dune-esque, like a Spice harvester: 
+
+
