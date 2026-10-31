@@ -31,7 +31,7 @@ I'm not usually a fan of teams disappearing into a black hole and emerging with 
 
 ## More chats
 
-Good conversations with Pete Ward, Debbie McAuliffe and Jess Ferguson. Pete, our DD, gave me a useful steer on becoming more of a thought leader and SME in this Referrals and Appointments space, which was great to hear as it’s easy to get lumbered with the day to day “fire-fighting” and lose your strategic perspective. 
+Good conversations with more of the SLT team who gave me a useful steer on becoming more of a thought leader and SME in this Referrals and Appointments space, which was great to hear as it’s easy to get lumbered with the day to day “fire-fighting” and lose your strategic perspective. 
 
 I've also been reflecting on how I create an environment where teams can thrive. Honestly, it's not something I massively prioritised enough in the past, I have always been very results driven and in the past this has sometimes come at the expense of team dynamics. I'm reading *Leaders Eat Last* by Simon Sinek, and sitting next to the Prevention team, I'm thinking about which of their good practices we could borrow. It’s a more healthy place to exist. 
 
