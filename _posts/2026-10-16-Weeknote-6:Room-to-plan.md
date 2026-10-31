@@ -5,7 +5,7 @@ categories: weeknotes, strategy
 date: 2026-10-16
 ---
 
-A short update this week as lots of travelling and workshops. This week I attended Strategic Room Planning, we released the SPoA MVP changes, I worked on criteria for establishing product gates in our governance, and I officially started feeding into the transformation strategy.
+A short update this week as lots of travelling and workshops. This week I attended Strategic Room Planning ("SRP"), we released the Single Point of Access ("SPoA") Minimum Viable Product ("MVP") changes, I worked on criteria for establishing product gates in our governance, and I officially started feeding into the transformation strategy. (sorry for all the accronyms!)
 
 Strategic Room Planning (SRP) is a two-day workshop where senior leaders across Products and Platforms come together to align on strategy and do more detailed, joined-up planning. It was great to see more user-centred vision work from the NHS App, NHS Online and Prevention teams, bringing to life a near-future view of what care could look like. Innovation is so complicated in this environment that it's hard to decide how far ahead any vision work should reach (6 months - 3 years). I think they landed at a reasonable, tangible distance from where we are now, presenting some of the initiatives we're already working on in a compelling, user-centred way.
 
