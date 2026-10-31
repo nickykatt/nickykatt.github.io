@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weeknote 7: Policy design and "soup gate" (longer read)"
+title: "Weeknote 7: Policy design and 'soup-gate' (longer read)"
 categories: weeknotes, policy design
 modified_date: 2026-10-23
 ---
