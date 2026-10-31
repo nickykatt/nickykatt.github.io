@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week 5 - Coaching and Calibrating"
+title: "Weeknote 5: Coaching and recalibrating"
 categories: weeknotes, opportunity sizing
 meta: "kings"
 date: 2026-10-09
