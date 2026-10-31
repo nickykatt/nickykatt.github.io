@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weeknote 1 - Beyond Primary Care"
+title: "Weeknote 1: Beyond Primary Care"
 date: 2026-09-11
 ---
 
