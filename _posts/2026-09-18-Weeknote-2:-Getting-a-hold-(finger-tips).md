@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Weeknote 2 - Getting a hold (finger tips)"
-date: 2026-09-11
+date: 2026-09-18
 ---
 
-I'm starting to get a feel for the rhythm of the Referrals and Appointments programme, who the people to go to are, and what is most important to focus on. We are mid Q3 planning and I'm digging into the plans the teams are pulling together, to make sure there is a clear strategic thread back to what has been presented as SLT priorities.
+Starting to get a feel for the rhythm of the Referrals and Appointments programme, who the people to go to are, and what is most important to focus on. We are mid Q3 planning and I'm digging into the plans the teams are pulling together, to make sure there is a clear strategic thread back to what has been presented as SLT priorities.
 
 Due to some delivery challenges over the last 6 months, there is some tension around delivering against the detail in the SOW. This is unfortunate because, ultimately, the stronger the trust between a supplier and the commissioning organisation, the less likely you are to need to revert to and scrutinise what is in the SOW.
 
@@ -18,13 +18,11 @@ I'm building my stakeholder map and understanding which stakeholders are most pe
 
 > "Persuasion is what happens in the room. You make the case, and the person in front of you either agrees or doesn't, right there, based on how well you argued it. It's a single event. Influence is what happens after you leave the room. It's whether the person you persuaded goes on to make your case to people when you're not there, because they've decided supporting you is the right call. Influence is the system that makes your next persuasion event easier to win."
 
-I hope that by listening and engaging with my colleagues I'm able to develop effective influence.
+I hope that by listening and engaging with my colleagues I'm able to develop influence.
 
 ## Assumption-based product delivery and pre-mortems
 
-Our DD raised the term pre-mortem in a session last week. It was a new concept to me, and my initial reaction was that it felt negative and wasn't something we'd want to present to our Policy counterparts.
-
-However, looking into it more, I understand it's about proactive risk management: creating a safe space for team members and wider stakeholders to identify what they believe are the big risks or assumptions to a product's success. Gary Klein's <a href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer">original HBR piece</a> is a good starting point.
+One of our Senior Leadership Team raised the term pre-mortem in a session last week. It was a new concept to me, and my initial reaction was that it felt too negative and wasn't something we'd want to present to our Policy colleagues. However, looking into it more, I understand it's about proactive risk management: creating a safe space for team members and wider stakeholders to identify what they believe are the big risks or assumptions to a product's success. Gary Klein's <a href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer">original HBR piece</a> is a good starting point.
 
 I'm a big driver of assumption-driven product development, especially in complex environments such as healthcare or financial services, where you have to traverse an incredibly complex, booby-trapped landscape to ship a successful product. It's incredibly valuable to identify, as early as possible, what the giant deal-killer assumptions are going to be. It's a skill I picked up during Innosight Bootcamp training at Experian, based on the theory in *Competing Against Luck* by Clayton M. Christensen.
 
