@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weeknote 3 - Eating your own dog food?"
-date: 2026-09-18
+date: 2026-09-25
 ---
 
 My boss returned to work this week and, somewhat unexpectedly, it triggered a worry that I hadn't delivered to expectations. A useful reminder that the listen-and-understand phase doesn't always feel productive, even when it is.
