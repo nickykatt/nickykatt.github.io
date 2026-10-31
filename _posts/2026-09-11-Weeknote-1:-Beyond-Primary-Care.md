@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weeknote 1 - Beyond Primary Care"
-date: 2026-09-04
+date: 2026-09-11
 ---
 
 This was my first real week in Referrals and Appointments. It took me a while to move as I had to hand over my previous role in Digital Primary Care ("DPC").
@@ -37,9 +37,9 @@ To do this, I also put together a bit of a framework with a high-level 90-day pl
 
 ## Initial observation: Working with suppliers
 
-An interesting trait of being a permanent NHSE staff member working at Product Lead 8c level and above is that you often have a lot of supplier management duties along with the usual product responsibilities, e.g. managing internal staff but also large teams of contract staff.
+An interesting trait of being a permanent NHSE staff member working at Product Lead 8c level and above is that you often have a lot of supplier management duties along with the usual product responsibilities, e.g. managing internal staff but also large teams of Systems Integrators, Digital Consultancies (contract staff) and independent contractors.
 
-Generally, there are always loads of challenges around staffing. We are continuously at the end of the last restructure and the start or middle of the latest one (from what I have experienced), and most often the programme has a big reliance on supplier contracts to deliver. This enables you to be responsive and scale up and down at speed if necessary.
+Generally, there are always loads of challenges around perm and contract staffing. The organisation is continuously evolving, at the end of the last restructure, the middle of the latest one (from what I have experienced), and trying to make sense of the next one. Most often the programme has a big reliance on supplier contracts to deliver, which enables you to be responsive and scale up and down at speed if necessary.
 
 This means working with teams from Accenture, CGI, PA Consulting, IBM, Hippo and Kainos, to name but a few. They each have their unique strengths and characteristics that you start to pick up on working here. Some act more as internal blended teams and some maintain more of a client/supplier structure. Some are more process driven and some are more sales driven. This should also be reflected in how you structure your contracts.
 
