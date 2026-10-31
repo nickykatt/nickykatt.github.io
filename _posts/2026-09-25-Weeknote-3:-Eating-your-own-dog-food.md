@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weeknote 3 - Eating your own dog food?"
+title: "Weeknote 3: Eating your own dog food"
 date: 2026-09-25
 ---
 
