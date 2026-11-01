@@ -1,0 +1,47 @@
+<div class="sub-footer">
+  <span id="sf-toggle" onclick="toggleSubFooter()">
+    <span class="sf-toggle-icon"></span>
+  </span>
+  <div id="skin-switch-container">
+    Read this site in the <select id="skin-switch" aria-label="Colour theme" onchange="changeSkin(event)">
+      <option value="style.css">classic</option>
+      <option value="dark.css">dark</option>
+      <option value="auto.css">auto</option>
+      <option value="solarized-light.css">solarized-light</option>
+      <option value="solarized-dark.css">solarized-dark</option>
+      <option value="solarized.css">solarized</option>
+    </select> theme.
+  </div>
+</div>
+
+<script>
+  (function () {
+    var metaTag = document.getElementById("main-stylesheet");
+    var skinSwitcher = document.getElementById("skin-switch");
+    if (!metaTag || !skinSwitcher) return;
+
+    document.getElementById("skin-switch-container").style.display = "block";
+
+    var SSHref = metaTag.href;
+    var SSName = SSHref.substring(SSHref.lastIndexOf("/") + 1);
+    var prevSkin = null;
+    try { prevSkin = localStorage.getItem("minima-ss"); } catch (e) {}
+
+    if (prevSkin) {
+      metaTag.href = SSHref.replace(SSName, prevSkin);
+      skinSwitcher.value = prevSkin;
+    } else {
+      skinSwitcher.value = SSName;
+    }
+
+    window.changeSkin = function (event) {
+      var name = event.target.value;
+      metaTag.href = SSHref.replace(SSName, name);
+      try { localStorage.setItem("minima-ss", name); } catch (e) {}
+    };
+
+    window.toggleSubFooter = function () {
+      document.querySelector(".site-footer").classList.toggle("sub-footer-hidden");
+    };
+  })();
+</script>
