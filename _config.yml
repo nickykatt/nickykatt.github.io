@@ -21,6 +21,7 @@ minima:
     - about.md
   social_links:
     - { icon: "github", title: "Nickykatt at GitHub", url: "https://github.com/nickykatt/" }
+    - { icon: "linkedin", title: "Nick at LinkedIn", url: "https://www.linkedin.com/in/nick-katz/" }
     - { icon: "letterboxd", title: "Nick at Letterboxd", url: "https://letterboxd.com/wikki111/" }
     - { icon: "envelope", style: "solid", title: "nicholaskatz45@gmail.com", url: "mailto:nicholaskatz45@gmail.com" }
   show_excerpts: true
