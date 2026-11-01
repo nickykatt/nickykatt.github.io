@@ -47,12 +47,12 @@ It helps to think of the product lifecycle as a series of mini investment gates.
 
 ## Links
 
-- <a href="https://understand-digital-data-roles-skills.service.gov.uk/role/product-manager/" target="_blank" rel="noopener noreferrer">Product manager role levels, including head of product</a> - Government Digital and Data Capability Framework
-- <a href="https://digitalpeople.blog.gov.uk/2025/03/20/updating-the-product-manager-role-and-skills-on-the-government-digital-and-data-capability-framework/" target="_blank" rel="noopener noreferrer">Updating the product manager role and skills on the capability framework</a> - Debbie Blanchard and Olivia Helliwell
-- <a href="https://www.leaningforward.com/blog/2023/12/nudging-along-the-government-ddat-product-management-career-framework/" target="_blank" rel="noopener noreferrer">Nudging along the government product management career framework</a> - Leaning Forward
-- <a href="https://strategyzer.com/library/how-assumptions-mapping-can-focus-your-teams-on-running-experiments-that-matter" target="_blank" rel="noopener noreferrer">How assumptions mapping can focus your teams on running experiments that matter</a> - David J. Bland, Strategyzer
-- <a href="https://assets.publishing.service.gov.uk/media/6a846dabc9205b515d421e3b/Guide_on_Assurance_for_Agile_Delivery_of_Digital_Services_August_2026.pdf" target="_blank" rel="noopener noreferrer">Assurance and approvals for agile delivery of digital services (PDF)</a> - updated August 2026
-- <a href="https://www.england.nhs.uk/2026/09/busiest-summer-ever-for-nhs-but-aes-see-record-numbers-within-four-hours/" target="_blank" rel="noopener noreferrer">Busiest summer ever for NHS, but A&Es see record numbers within four hours</a> - NHS England
+- <a href="https://understand-digital-data-roles-skills.service.gov.uk/role/product-manager/" target="_blank" rel="noopener noreferrer">Product manager role levels, including head of product</a> - Government Digital and Data Capability Framework: what's expected at each government PM level
+- <a href="https://digitalpeople.blog.gov.uk/2025/03/20/updating-the-product-manager-role-and-skills-on-the-government-digital-and-data-capability-framework/" target="_blank" rel="noopener noreferrer">Updating the product manager role and skills on the capability framework</a> - Debbie Blanchard and Olivia Helliwell: why the PM role and skills were refreshed
+- <a href="https://www.leaningforward.com/blog/2023/12/nudging-along-the-government-ddat-product-management-career-framework/" target="_blank" rel="noopener noreferrer">Nudging along the government product management career framework</a> - Leaning Forward: an outside view on improving the PM framework
+- <a href="https://strategyzer.com/library/how-assumptions-mapping-can-focus-your-teams-on-running-experiments-that-matter" target="_blank" rel="noopener noreferrer">How assumptions mapping can focus your teams on running experiments that matter</a> - David J. Bland, Strategyzer: finding your riskiest assumptions to test first
+- <a href="https://assets.publishing.service.gov.uk/media/6a846dabc9205b515d421e3b/Guide_on_Assurance_for_Agile_Delivery_of_Digital_Services_August_2026.pdf" target="_blank" rel="noopener noreferrer">Assurance and approvals for agile delivery of digital services (PDF)</a> - updated August 2026: proportionate assurance for agile government services
+- <a href="https://www.england.nhs.uk/2026/09/busiest-summer-ever-for-nhs-but-aes-see-record-numbers-within-four-hours/" target="_blank" rel="noopener noreferrer">Busiest summer ever for NHS, but A&Es see record numbers within four hours</a> - NHS England: record A&E performance despite record demand
 
 ***
 

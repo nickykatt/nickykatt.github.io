@@ -42,7 +42,7 @@ Meanwhile, I'm writing a paper for transformation and trying to wrestle it into 
 
 ## Links
 
-- <a href="https://www.linkedin.com/posts/will-j-richards_the-details-matter-more-than-you-think-activity-7520441889259638786-5L7u" target="_blank" rel="noopener noreferrer">A post re why test results content detail really matters</a> - Will Richards
+- <a href="https://www.linkedin.com/posts/will-j-richards_the-details-matter-more-than-you-think-activity-7520441889259638786-5L7u" target="_blank" rel="noopener noreferrer">A post re why test results content detail really matters</a> - Will Richards: how wording test results affects patients
 - <a href="https://lnkd.in/p/erM7mG3K" target="_blank" rel="noopener noreferrer">New Primary Care Framework going live soon</a>
 
 ***
