@@ -3,7 +3,7 @@ layout: post
 title: "Weeknote 8: Working closer with Policy"
 categories: [weeknotes, policy-design]
 redirect_from: /weeknotes,/policy/design/2026/10/30/Weeknote-8-The-real-work.html
-modified_date: 2026-10-30
+date: 2026-10-30
 ---
 
 This week we held our policy workshop to explore how we can be more joined up with our Elective policy colleagues. We're also working up technical options papers to take to leadership as we navigate our way into transformation.
