@@ -3,7 +3,7 @@ layout: post
 title: "Weeknote 7: Policy design and 'soup-gate' (longer read)"
 categories: [weeknotes, policy-design]
 redirect_from: /weeknotes,/policy/design/2026/10/23/Weeknote-7-Policy-design-and-soup-gate.html
-modified_date: 2026-10-23
+date: 2026-10-23
 ---
 
 This week I became more integrated into the Transformation team. I'm feeling more confident about what matters most for our product, and getting a better sense of what we're aiming to achieve through the transformation strategy.
