@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Weeknote 8: Working closer with Policy"
-categories: weeknotes, policy design
+categories: [weeknotes, policy-design]
+redirect_from: /weeknotes,/policy/design/2026/10/30/Weeknote-8-The-real-work.html
 modified_date: 2026-10-30
 ---
 
@@ -46,8 +47,8 @@ Meanwhile, I'm writing a paper for transformation and trying to wrestle it into 
 
 ***
 
-The boys are on half term, so the house is busy. Remembrance poppies and a brass band playing return of the Jedi in Canary Wharf station. Finished listening to Jon Ronson's The Castle, interesting reflections on masculinity and purpose... My son also created this sculpture out of Montessori counting materials, I think it looks very Dune-esque, like a Spice harvester: 
+The boys are on half-term, so the house is busy. Remembrance poppies and a brass band playing *Return of the Jedi* in Canary Wharf station. Finished listening to Jon Ronson's *The Castle*: interesting reflections on masculinity and purpose... My son also created this sculpture out of Montessori counting materials. I think it looks very Dune-esque, like a Spice harvester: 
 
-<img src="assets/images/Spice Extractor.jpeg" alt="10sc" width="800">
+<img src="{{ '/assets/images/Spice%20Extractor.jpeg' | relative_url }}" alt="Sculpture made from Montessori counting beads, resembling a Dune spice harvester" width="800">
 
 

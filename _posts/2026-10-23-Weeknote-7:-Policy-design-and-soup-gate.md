@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Weeknote 7: Policy design and 'soup-gate' (longer read)"
-categories: weeknotes, policy design
+categories: [weeknotes, policy-design]
+redirect_from: /weeknotes,/policy/design/2026/10/23/Weeknote-7-Policy-design-and-soup-gate.html
 modified_date: 2026-10-23
 ---
 
-This week integrated into the Transformation team, I'm feeling more confident about what matters most for our product, and getting a better sense of what we're aiming to achieve through the transformation strategy.
+This week I became more integrated into the Transformation team. I'm feeling more confident about what matters most for our product, and getting a better sense of what we're aiming to achieve through the transformation strategy.
 
 I also attended an NHS App design assurance gate to discuss a live, joined-up opportunity between the App and Referrals and Appointments. It was good to see how we apply the NHS service standard between Alpha and Private Beta.
 
@@ -19,13 +20,13 @@ e-RS is a big platform and, like the NHS itself, its scale is hard to grasp. <a 
 
 That's nearly 80,000 referrals every working day.
 
-And yet, when I visited my GP this week and asked about e-RS, she didn't know what I was talking about(!). Her practice uses Enlivio (EMIS), which integrates e-RS via the API and embeds key e-RS screens, so it feels like part of the clinical system. She also told me that in their practice she doesn't manage referrals at all, that's done by the admin staff. These are the obvious insights I need to get closer to in my day-to-day. 
+And yet, when I visited my GP this week and asked about e-RS, she didn't know what I was talking about(!). Her practice uses Enlivio (EMIS), which integrates e-RS via the API and embeds key e-RS screens, so it feels like part of the clinical system. She also told me that in their practice she doesn't manage referrals at all; that's done by the admin staff. These are the obvious insights I need to get closer to in my day-to-day. 
 
 I've also finally got access to the e-RS INT (integration test) environment. I'm familiar with the journeys, but it's a relief to be able to channel my inner referrer and service provider, form my own opinions of the UI, and have deeper conversations with users.
 
 ### Re-platforming
 
-The big question is how we approach re-platforming itself. There's strong confidence around the value of uplifting the technical foundations to a more responsive, modular platform, something a private-sector organisation would do without blinking. Here, it's harder to justify the cost over other high priority changes, you need to show evidence that the investment is worth it.
+The big question is how we approach re-platforming itself. There's strong confidence around the value of uplifting the technical foundations to a more responsive, modular platform, something a private-sector organisation would do without blinking. Here, it's harder to justify the cost over other high-priority changes, and you need to show evidence that the investment is worth it.
 
 Thankfully, we have technically minded leadership. In one of our weekly Thursday evening updates, it was great to hear them set the expectation that “this is going to take a long time” and back the re-platforming work.
 
@@ -49,7 +50,7 @@ This is something I've wrestled with a lot since joining. In such a complex envi
 4. Align on outcomes and gather evidence
 5. Create a safe space to learn together
 
-Every day is a school day and although I have 17 years' experience shipping digital services to consumers I'm still learning a lot about policymaking, policy design, and how we can innovate more effectively as a blended team with policy colleagues.
+Every day is a school day. Although I have 17 years' experience shipping digital services to consumers, I'm still learning a lot about policymaking, policy design, and how we can innovate more effectively as a blended team with policy colleagues.
 
 ### Mapping the policy landscape
 
@@ -90,7 +91,7 @@ We're working towards a workshop with senior policy colleagues invested in Refer
 
 We also looked at examples of good and bad policy design, and at a lot of the GDS thinking on how to do policy design better. There's a tonne of good content from Policy Lab for me to dive into (links below). Perhaps one day I'll contribute to the canon! A few examples that stood out:
 
-- **Organ donation opt-out** changed the default from starting with being opted-in, then supported families to follow it.
+- **Organ donation opt-out** made donation the default unless people opt out, then supported families to follow it.
 - **Getting It Right First Time** changed surgical practice using data and peer pressure, not rules.
 - **Open Banking** used a legal order and a shared standard to open up bank data.
 
@@ -108,4 +109,4 @@ Next, we need to work out what this looks like as a roadmap: building out our in
 
 ***
 
-**Soup gate.** Somehow we've created a dynamic where one son likes chunky soup and the other likes smooth. Key learning: you can't unblend soup :(
+**Soup-gate.** Somehow we've created a dynamic where one son likes chunky soup and the other likes smooth. Key learning: you can't unblend soup :(

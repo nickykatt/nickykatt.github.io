@@ -2,11 +2,13 @@ remote_theme: jekyll/minima
 
 title: Nickykatt
 
+lang: en-GB
+
 description: Product management, digital health and NHS transformation © 2020–2026 Nicholas Katz. All rights reserved.
 
 author:
   name: Nicholas Katz
-  email: nicholaskatz45@gmailcom
+  email: nicholaskatz45@gmail.com
 
 header_pages:
   - about.md
@@ -14,6 +16,7 @@ header_pages:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
 minima:
   skin: classic

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Weeknote 5: Coaching and recalibrating"
-categories: weeknotes, opportunity sizing
+categories: [weeknotes, opportunity-sizing]
+redirect_from: /weeknotes,/opportunity/sizing/2026/10/09/Weeknote-5-Coaching-and-calibrating.html
 meta: "kings"
 date: 2026-10-09
 ---
