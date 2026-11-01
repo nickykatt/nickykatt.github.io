@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I'm Nick Katz, a Product Person working at NHS England. 
 
-For the last 2.5 years I was responsible for managing the GPIT Roadmap, but have most recently moves into Referrals and Appointments. 
+For the last 2.5 years I was responsible for managing the GPIT Roadmap, but have most recently moved into Referrals and Appointments. 
 
 I'm a father of two young boys (7 and 4) and live in London. 
 
