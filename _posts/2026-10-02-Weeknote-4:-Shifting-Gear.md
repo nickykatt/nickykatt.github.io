@@ -59,9 +59,9 @@ Most of our teams are remote across the UK, and building a remote culture is har
 
 ## Links
 
-- <a href="https://www.producttalk.org/opportunity-solution-trees/" target="_blank" rel="noopener noreferrer">Opportunity Solution Trees</a> - Product Talk
-- <a href="https://www.nhsemployers.org/news/join-nhs-alliances-edi-improvement-programmes" target="_blank" rel="noopener noreferrer">Join NHS Alliance's EDI improvement programmes</a> - NHS Employers
-- <a href="https://governmentdigitalanddatahub.campaign.gov.uk/learn/get-tech-certified/" target="_blank" rel="noopener noreferrer">Get tech certified</a> - Government Digital and Data Hub
+- <a href="https://www.producttalk.org/opportunity-solution-trees/" target="_blank" rel="noopener noreferrer">Opportunity Solution Trees</a> - Product Talk: Teresa Torres's tool linking outcomes to opportunities and solutions
+- <a href="https://www.nhsemployers.org/news/join-nhs-alliances-edi-improvement-programmes" target="_blank" rel="noopener noreferrer">Join NHS Alliance's EDI improvement programmes</a> - NHS Employers: NHS programmes for improving equality, diversity and inclusion
+- <a href="https://governmentdigitalanddatahub.campaign.gov.uk/learn/get-tech-certified/" target="_blank" rel="noopener noreferrer">Get tech certified</a> - Government Digital and Data Hub: free tech certifications for public servants
 
 ***
 

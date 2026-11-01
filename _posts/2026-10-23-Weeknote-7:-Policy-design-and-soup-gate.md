@@ -102,10 +102,10 @@ Next, we need to work out what this looks like as a roadmap: building out our in
 ## Links
 
 - <a href="https://www.youtube.com/watch?v=OBl5rRV8OfU" target="_blank" rel="noopener noreferrer">Watch this video</a>
-- <a href="https://openpolicy.blog.gov.uk/2017/09/22/designing-policy/" target="_blank" rel="noopener noreferrer">Designing policy</a> - Open Policy Making blog
-- <a href="https://openpolicy.blog.gov.uk/2020/03/06/introducing-a-government-as-a-system-toolkit/" target="_blank" rel="noopener noreferrer">Introducing a government as a system toolkit</a> - Open Policy Making blog
-- <a href="https://design-history.prevention-services.nhs.uk/breast-screening-pathway/2026/10/aligning-perspectives-gp-it/" target="_blank" rel="noopener noreferrer">Aligning policy, clinical and digital perspectives on communicating with GPs</a> - NHS Breast Screening design history
-- <a href="https://htn.co.uk/2026/10/13/838-million-open-framework-for-future-of-gp-it-announced/" target="_blank" rel="noopener noreferrer">£838 million open framework for future of GP IT announced</a> - HTN
+- <a href="https://openpolicy.blog.gov.uk/2017/09/22/designing-policy/" target="_blank" rel="noopener noreferrer">Designing policy</a> - Open Policy Making blog: applying design methods to policymaking
+- <a href="https://openpolicy.blog.gov.uk/2020/03/06/introducing-a-government-as-a-system-toolkit/" target="_blank" rel="noopener noreferrer">Introducing a government as a system toolkit</a> - Open Policy Making blog: tools for seeing government as connected systems
+- <a href="https://design-history.prevention-services.nhs.uk/breast-screening-pathway/2026/10/aligning-perspectives-gp-it/" target="_blank" rel="noopener noreferrer">Aligning policy, clinical and digital perspectives on communicating with GPs</a> - NHS Breast Screening design history: how Vero's team joined up policy and digital
+- <a href="https://htn.co.uk/2026/10/13/838-million-open-framework-for-future-of-gp-it-announced/" target="_blank" rel="noopener noreferrer">£838 million open framework for future of GP IT announced</a> - HTN: the new route for buying GP IT systems
 
 ***
 

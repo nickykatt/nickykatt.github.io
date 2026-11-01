@@ -22,13 +22,13 @@ I had a great chat with a colleague on the train back from Leeds about the histo
 
 ## Links
 
-- <a href="https://www.designswarm.com/blog/2026/10/weeknote-10-6-months-in/" target="_blank" rel="noopener noreferrer">Weeknote 10: 6 months in</a> - Designswarm
-- <a href="https://public.digital/pd-insights/blog/2025/12/delivering-change-across-decentralised-organisations" target="_blank" rel="noopener noreferrer">Delivering change across decentralised organisations</a> - Public Digital
-- <a href="https://fs.blog/slop-grenade/" target="_blank" rel="noopener noreferrer">Slop grenade</a> - Farnam Street
+- <a href="https://www.designswarm.com/blog/2026/10/weeknote-10-6-months-in/" target="_blank" rel="noopener noreferrer">Weeknote 10: 6 months in</a> - Designswarm: Alex DS reflects on six months of NHS design
+- <a href="https://public.digital/pd-insights/blog/2025/12/delivering-change-across-decentralised-organisations" target="_blank" rel="noopener noreferrer">Delivering change across decentralised organisations</a> - Public Digital: making change stick when nobody's fully in charge
+- <a href="https://fs.blog/slop-grenade/" target="_blank" rel="noopener noreferrer">Slop grenade</a> - Farnam Street: naming unreviewed AI output dumped on colleagues
 - <a href="https://frankieroberto.github.io/nhsnotes/posts/week-112-right-people-right-order/" target="_blank" rel="noopener noreferrer">Week 112: right people, right order</a> - Frankie Roberto
-- <a href="https://ustwo.com/blog/ai-makes-good-design-systems-faster-and-bad-ones-messier/" target="_blank" rel="noopener noreferrer">ustwo Insights: AI makes good design systems faster and bad ones messier</a>
+- <a href="https://ustwo.com/blog/ai-makes-good-design-systems-faster-and-bad-ones-messier/" target="_blank" rel="noopener noreferrer">ustwo Insights: AI makes good design systems faster and bad ones messier</a>: AI amplifies whatever design system you already have
 - <a href="https://mikegallagher.org/posts/mistakes-were-made/" target="_blank" rel="noopener noreferrer">Mistakes were made by Mike Gallagher</a>
-- <a href="https://gilest.org/doingweeknotes/index.html" target="_blank" rel="noopener noreferrer">Doing weeknotes</a> - Giles Turnbull
+- <a href="https://gilest.org/doingweeknotes/index.html" target="_blank" rel="noopener noreferrer">Doing weeknotes</a> - Giles Turnbull: the guide to writing weeknotes
 
 *** 
 

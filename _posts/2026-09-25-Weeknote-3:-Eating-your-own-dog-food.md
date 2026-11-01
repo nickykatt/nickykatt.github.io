@@ -38,9 +38,9 @@ I've also been reflecting on how I create an environment where teams can thrive.
 ## Links
 
 - <a href="https://digital.nhs.uk/developer/guides-and-documentation/api-policies-and-best-practice" target="_blank" rel="noopener noreferrer">API policies and best practice</a> - NHS England's mandatory API policies, starting with 'API first'
-- <a href="https://www.england.nhs.uk/digitaltechnology/nhs-online/" target="_blank" rel="noopener noreferrer">NHS Online</a> - NHS England
-- <a href="https://technology.blog.gov.uk/2013/12/23/taking-an-api-first-approach-for-user-needs/" target="_blank" rel="noopener noreferrer">Taking an API-first approach for user needs</a> - Jordan Hatch, GDS
-- <a href="https://lifeathmrc.blog.gov.uk/2018/02/05/considering-user-needs-in-an-api-first-strategy/" target="_blank" rel="noopener noreferrer">Considering user needs in an API first strategy</a> - HMRC
+- <a href="https://www.england.nhs.uk/digitaltechnology/nhs-online/" target="_blank" rel="noopener noreferrer">NHS Online</a> - NHS England: the NHS's new online hospital
+- <a href="https://technology.blog.gov.uk/2013/12/23/taking-an-api-first-approach-for-user-needs/" target="_blank" rel="noopener noreferrer">Taking an API-first approach for user needs</a> - Jordan Hatch, GDS: GDS's early case for API-first design
+- <a href="https://lifeathmrc.blog.gov.uk/2018/02/05/considering-user-needs-in-an-api-first-strategy/" target="_blank" rel="noopener noreferrer">Considering user needs in an API first strategy</a> - HMRC: keeping user needs central when going API-first
 
 ***
 

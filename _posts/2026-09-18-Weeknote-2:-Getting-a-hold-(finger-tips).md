@@ -58,8 +58,8 @@ I had a good catch-up with Richard Pope this week, who wrote <a href="https://ww
 
 - <a href="https://jennywanger.com/articles/influence-doesnt-come-with-the-promotion/" target="_blank" rel="noopener noreferrer">Influence doesn't come with the promotion</a> - Jenny Wanger on persuasion vs influence
 - <a href="https://jennywanger.com/articles/premortems-guide/" target="_blank" rel="noopener noreferrer">A guide to premortems</a> - Jenny Wanger's practical take on running one
-- <a href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer">Performing a Project Premortem</a> - Gary Klein, Harvard Business Review
-- <a href="https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/contracting-for-agile-guidance-note-html" target="_blank" rel="noopener noreferrer">Contracting for agile guidance note</a> - DDaT Playbook
-- <a href="https://www.gov.uk/service-manual/agile-delivery" target="_blank" rel="noopener noreferrer">Agile delivery</a> - GOV.UK Service Manual
-- <a href="https://leadershiplaboratory.beehiiv.com/p/players-passengers-prisoners" target="_blank" rel="noopener noreferrer">Players, passengers and prisoners</a> - Leadership Laboratory
-- <a href="https://www.platformland.xyz/" target="_blank" rel="noopener noreferrer">Platformland</a> - Richard Pope
+- <a href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer">Performing a Project Premortem</a> - Gary Klein, Harvard Business Review: the original case for imagining failure upfront
+- <a href="https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/contracting-for-agile-guidance-note-html" target="_blank" rel="noopener noreferrer">Contracting for agile guidance note</a> - DDaT Playbook: how to buy agile delivery from suppliers
+- <a href="https://www.gov.uk/service-manual/agile-delivery" target="_blank" rel="noopener noreferrer">Agile delivery</a> - GOV.UK Service Manual: government's guide to agile phases and teams
+- <a href="https://leadershiplaboratory.beehiiv.com/p/players-passengers-prisoners" target="_blank" rel="noopener noreferrer">Players, passengers and prisoners</a> - Leadership Laboratory: three mindsets people bring to work
+- <a href="https://www.platformland.xyz/" target="_blank" rel="noopener noreferrer">Platformland</a> - Richard Pope: how to build government services as shared platforms
