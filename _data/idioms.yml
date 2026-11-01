@@ -1,0 +1,104 @@
+# Idioms for the NHS idiom generator (/idioms/).
+# Add your own: one entry per idiom, with a short explanation.
+
+- idiom: "A pilot that never lands"
+  meaning: "A project that's been in pilot for four years, is loved by the three sites using it, and has no route to national rollout or funding. It's still circling, waiting for clearance."
+
+- idiom: "Herding cats through a fax machine"
+  meaning: "Getting everyone aligned while half the system is modern and the other half still prints, scans and faxes it back to you."
+
+- idiom: "Painting the Forth Bridge with a highlighter"
+  meaning: "Backlog refinement. By the time you reach the bottom, the top needs doing again."
+
+- idiom: "Swapping the tyres while the ambulance is moving"
+  meaning: "Re-platforming a national service that can't have a minute of downtime. The building-the-plane-whilst-flying-it idiom, but with blue lights."
+
+- idiom: "Throwing the baby out with the bathwater, then raising a Datix"
+  meaning: "Making a bold change, then making sure the incident gets properly reported and learned from."
+
+- idiom: "Teaching an old PAS new tricks"
+  meaning: "Getting a 20-year-old patient administration system to do something its designers never imagined, like talk to an app."
+
+- idiom: "Every road leads to the GP"
+  meaning: "Whatever the question, whether it's where my hospital appointment is or why my letter hasn't arrived, patients end up asking their practice."
+
+- idiom: "Chasing the 18-week rainbow"
+  meaning: "Working towards the referral-to-treatment standard. You can always see it, but it keeps moving."
+
+- idiom: "The spreadsheet is the system"
+  meaning: "The moment you discover the critical national process actually runs on one person's Excel file called FINAL_v7_USE_THIS_ONE.xlsx."
+
+- idiom: "Asking the elephant to sign the DPIA"
+  meaning: "Trying to get information governance sign-off for something huge and vague. Fine in principle, until someone asks for the data flows."
+
+- idiom: "Measure twice, govern seven times"
+  meaning: "The NHS take on careful planning: one design crit, one clinical safety review, one IG board, one tech board, one assurance gate, and two meetings to prepare for the meetings."
+
+- idiom: "Kicking the can into the next financial year"
+  meaning: "A decision that's definitely happening, just after 1 April. And possibly after the next 1 April."
+
+- idiom: "Writing the strategy for the strategy"
+  meaning: "Before we can agree the plan, we need a plan for how we'll agree the plan. There's a template for that."
+
+- idiom: "There's a framework for that"
+  meaning: "Whatever you're about to do, someone has already written a framework for it. Finding it is the hard part."
+
+- idiom: "Agreeing on outcomes, arguing about the font"
+  meaning: "Everyone's aligned on the vision until the slide goes round for comments."
+
+- idiom: "Every winter is the worst winter"
+  meaning: "Pressures peak every year, so plans are always being drawn up for the next one. Spring is a rumour."
+
+- idiom: "Dropping it in the Teams chat and running"
+  meaning: "Posting a 40-page document at 5:58pm on a Friday with the message 'any thoughts welcome!'"
+
+- idiom: "Opening Pandora's inbox"
+  meaning: "Coming back from annual leave to 600 emails, three reorganisations and a new acronym."
+
+- idiom: "Lost in the org chart"
+  meaning: "You need one decision, but it belongs to a team, inside a directorate, inside a programme, which reports to a board that meets quarterly."
+
+- idiom: "Too many boards, not enough planks"
+  meaning: "Plenty of places to discuss the work, fewer places to actually build it."
+
+- idiom: "Mapping the journey, finding the maze"
+  meaning: "Doing a user journey map for a patient pathway and realising it needs to be printed on A0."
+
+- idiom: "Turning it off and on again, nationally"
+  meaning: "When a fix needs every trust, practice and supplier to do the same thing on the same day. Simple in theory."
+
+- idiom: "Gold-plating the bedpan"
+  meaning: "Adding polish to something that just needs to work reliably. Users don't want it shiny; they want it there when they need it."
+
+- idiom: "Building a cathedral one Jira ticket at a time"
+  meaning: "National transformation, delivered in two-week sprints. Every brick matters, but someone needs to hold the drawings."
+
+- idiom: "The acronym ate my homework"
+  meaning: "You followed the whole meeting until someone mentioned the SPoA MVP for the ICB's A&G pathway against the RTT standard."
+
+- idiom: "Two clipboards, no pen"
+  meaning: "Lots of oversight, nobody with the authority to actually change anything."
+
+- idiom: "Cutting the ribbon on a Discovery"
+  meaning: "Celebrating the start of finding out whether we should do something, which is still worth celebrating."
+
+- idiom: "Reading tea leaves in a SITREP"
+  meaning: "Trying to spot a trend in a weekly situation report that changed its definitions twice this quarter."
+
+- idiom: "Making the tea before the meeting about the tea"
+  meaning: "Doing the obviously sensible thing first, then going through the process to agree it was sensible."
+
+- idiom: "Shuffling the queue doesn't build a bigger ward"
+  meaning: "Reordering a waiting list helps, but when the real problem is capacity, the list is still the same length."
+
+- idiom: "One person's legacy is another person's critical dependency"
+  meaning: "That old service nobody owns? Turns out twelve other systems call it every night."
+
+- idiom: "The business case needs legs, and a heart, and a benefits profile"
+  meaning: "A good idea isn't enough. It needs evidence, a cost, a saving and someone to sign it off before it can walk."
+
+- idiom: "Finding the light switch in a national programme"
+  meaning: "Your first month in a new role: feeling along the walls for who decides what, and where the documents live."
+
+- idiom: "Waiting for the green light from the amber group"
+  meaning: "The decision has passed every gate except one, which meets next month."
