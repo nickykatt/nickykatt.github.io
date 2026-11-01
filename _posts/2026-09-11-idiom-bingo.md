@@ -42,3 +42,7 @@ There are a lot of [Wicked Problems](https://en.wikipedia.org/wiki/Wicked_proble
 ## Two bites of the cherry 
 
 ## Catch smoke with a butterfly net
+
+***
+
+Want more? Try the [NHS idiom generator]({{ "/idioms/" | relative_url }}) for some I made up.
