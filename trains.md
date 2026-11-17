@@ -51,6 +51,14 @@ description: Live train departures between Tulse Hill and London Bridge, with a 
   .cb-quote .q { font-family:Georgia,"Times New Roman",serif; font-style:italic; font-size:19px; line-height:1.4; color:#2A2B2E; }
   .cb-quote .who { margin-top:8px; font-size:13px; color:var(--soft); }
   .cb-status { font-size:11px; color:var(--soft); text-align:center; }
+  .cb-wx { background:var(--card); border-radius:14px; padding:12px 16px; display:flex; flex-direction:column; gap:10px; }
+  .cb-wx .now { display:flex; align-items:center; gap:12px; }
+  .cb-wx svg { width:34px; height:34px; flex:none; color:#4A5A70; }
+  .cb-wx .temp { font-size:30px; font-weight:700; line-height:1; font-variant-numeric:tabular-nums; }
+  .cb-wx .desc { display:flex; flex-direction:column; font-size:13px; color:var(--muted); line-height:1.35; }
+  .cb-wx .desc b { color:var(--ink); font-weight:600; }
+  .cb-wx .wear { display:flex; flex-wrap:wrap; gap:6px; }
+  .cb-wx .wear span { background:#E7EEF8; color:#1D4E89; border-radius:999px; padding:5px 11px; font-size:13px; font-weight:600; }
   @media (max-width:380px){ .cb-tabs button{ padding:0 12px; } .cb-hero .big{ font-size:52px; } }
 </style>
 
@@ -63,6 +71,7 @@ description: Live train departures between Tulse Hill and London Bridge, with a 
     <span class="cb-clock" id="cb-clock"></span>
   </div>
   <div class="cb-hero none" id="cb-hero" aria-live="polite"><span class="route" id="cb-route"></span><span class="lead">Loading live departures…</span></div>
+  <div class="cb-wx" id="cb-wx"><div class="now"><span class="desc">Checking the weather…</span></div></div>
   <div class="cb-list" id="cb-list"></div>
   <div class="cb-note" id="cb-note"></div>
   <div class="cb-tube" id="cb-tube"><div class="head"><span class="roundel"></span><span style="flex:1"><b>Jubilee line</b></span><span class="sev">Checking…</span></div></div>
@@ -70,7 +79,7 @@ description: Live train departures between Tulse Hill and London Bridge, with a 
   <div class="cb-status" id="cb-status"></div>
 </div>
 
-<p><small>Train data from National Rail Enquiries via the open <a href="https://github.com/jpsingleton/Huxley2">Huxley 2</a> proxy. Tube status from <a href="https://tfl.gov.uk/">Transport for London</a> open data. Times use the expected departure where a train is running late.</small></p>
+<p><small>Train data from National Rail Enquiries via the open <a href="https://github.com/jpsingleton/Huxley2">Huxley 2</a> proxy. Tube status from <a href="https://tfl.gov.uk/">Transport for London</a> open data. Weather from <a href="https://open-meteo.com/">Open-Meteo</a>. Times use the expected departure where a train is running late.</small></p>
 
 <script>
 (function () {
@@ -238,11 +247,80 @@ description: Live train departures between Tulse Hill and London Bridge, with a 
       });
   }
 
+  // ---- Weather (Open-Meteo, no key needed) ----
+  var WX_URL = "https://api.open-meteo.com/v1/forecast?latitude=51.4396&longitude=-0.1048" +
+    "&hourly=temperature_2m,apparent_temperature,precipitation_probability,weather_code,wind_speed_10m" +
+    "&daily=temperature_2m_max,temperature_2m_min&timezone=Europe%2FLondon&forecast_days=2&wind_speed_unit=mph";
+  var wx = null;
+  var ICONS = {
+    sun: '<circle cx="12" cy="12" r="4.5"/><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M4.9 19.1l1.8-1.8M17.3 6.7l1.8-1.8"/>',
+    cloud: '<path d="M7 18h10a4 4 0 0 0 .5-7.97A6 6 0 0 0 6.1 11.1 3.5 3.5 0 0 0 7 18z"/>',
+    rain: '<path d="M7 15h10a4 4 0 0 0 .5-7.97A6 6 0 0 0 6.1 8.1 3.5 3.5 0 0 0 7 15z"/><path d="M8.5 18l-1 2.5M12.5 18l-1 2.5M16.5 18l-1 2.5"/>',
+    snow: '<path d="M7 15h10a4 4 0 0 0 .5-7.97A6 6 0 0 0 6.1 8.1 3.5 3.5 0 0 0 7 15z"/><path d="M8 19h.01M12 20h.01M16 19h.01"/>',
+    fog: '<path d="M4 9h16M3 13h18M5 17h14"/>',
+    storm: '<path d="M7 15h10a4 4 0 0 0 .5-7.97A6 6 0 0 0 6.1 8.1 3.5 3.5 0 0 0 7 15z"/><path d="M12.5 15l-2 4h3l-2 4"/>'
+  };
+  function wxKind(c) {
+    if (c === 0 || c === 1) return ["sun", c === 0 ? "Clear" : "Mostly clear"];
+    if (c === 2) return ["cloud", "Partly cloudy"];
+    if (c === 3) return ["cloud", "Overcast"];
+    if (c === 45 || c === 48) return ["fog", "Fog"];
+    if (c >= 51 && c <= 57) return ["rain", "Drizzle"];
+    if ((c >= 61 && c <= 67) || (c >= 80 && c <= 82)) return ["rain", c >= 80 ? "Showers" : "Rain"];
+    if ((c >= 71 && c <= 77) || c === 85 || c === 86) return ["snow", "Snow"];
+    if (c >= 95) return ["storm", "Thunderstorms"];
+    return ["cloud", "Cloudy"];
+  }
+  function londonDate() {
+    return new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/London", year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date());
+  }
+  function renderWeather() {
+    var box = $("cb-wx");
+    if (!wx || !wx.hourly) { if (wx === false) box.innerHTML = '<div class="now"><span class="desc">Weather unavailable right now</span></div>'; return; }
+    var h = wx.hourly, today = londonDate(), hr = londonNow().h;
+    var idx = h.time.indexOf(today + "T" + (hr < 10 ? "0" : "") + hr + ":00");
+    if (idx < 0) return;
+    // The part of the day you're out in: work view = now until 19:00 (covers the trip home); home view = next 3 hours
+    var endHr = view === "work" ? Math.max(19, hr + 1) : hr + 3;
+    var span = []; for (var i = idx; i <= idx + (endHr - hr) && i < h.time.length; i++) span.push(i);
+    var coldest = Math.min.apply(null, span.map(function (i) { return h.apparent_temperature[i]; }));
+    var wettest = span.reduce(function (a, i) { return h.precipitation_probability[i] > h.precipitation_probability[a] ? i : a; }, span[0]);
+    var rainP = h.precipitation_probability[wettest] || 0;
+    var windy = Math.max.apply(null, span.map(function (i) { return h.wind_speed_10m[i]; })) >= 25;
+    var k = wxKind(h.weather_code[idx]);
+    var di = wx.daily.time.indexOf(today);
+    var range = di >= 0 ? Math.round(wx.daily.temperature_2m_min[di]) + "°–" + Math.round(wx.daily.temperature_2m_max[di]) + "°" : "";
+
+    var wear = [];
+    if (coldest <= 2) wear.push("Warm coat", "Heavy thermals");
+    else if (coldest <= 7) wear.push("Coat", "Thermals");
+    else if (coldest <= 12) wear.push("Jacket", "Light thermals");
+    else if (coldest <= 16) wear.push("Light jacket");
+    else wear.push("No jacket needed");
+    if (rainP >= 40) wear.push("Umbrella");
+    if (windy) wear.push("Windy");
+
+    var rainTxt = rainP >= 40 ? rainP + "% rain at " + h.time[wettest].slice(11, 16) : "Rain unlikely";
+    box.innerHTML = '<div class="now">' +
+      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' + ICONS[k[0]] + "</svg>" +
+      '<span class="temp">' + Math.round(h.temperature_2m[idx]) + "°</span>" +
+      '<span class="desc"><b>' + esc(k[1]) + " · feels " + Math.round(h.apparent_temperature[idx]) + "°</b>" +
+      esc((view === "work" ? "Today " + range + " · " : "") + rainTxt) + "</span></div>" +
+      '<div class="wear" aria-label="What to wear">' + wear.map(function (w) { return "<span>" + esc(w) + "</span>"; }).join("") + "</div>";
+  }
+  function loadWeather() {
+    fetch(WX_URL, { cache: "no-store" })
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function (j) { wx = j; })
+      .catch(function () { if (!wx) wx = false; })
+      .then(renderWeather);
+  }
+
   function setView(v) {
     view = v;
     $("tab-work").setAttribute("aria-selected", v === "work");
     $("tab-home").setAttribute("aria-selected", v === "home");
-    renderTrains(); renderQuote();
+    renderTrains(); renderQuote(); renderWeather();
     if (!data[v]) loadTrains(v);
   }
 
@@ -250,7 +328,8 @@ description: Live train departures between Tulse Hill and London Bridge, with a 
   $("tab-home").addEventListener("click", function () { setView("home"); });
 
   setView(view);
-  loadTrains("work"); loadTrains("home"); loadTube();
+  loadTrains("work"); loadTrains("home"); loadTube(); loadWeather();
+  setInterval(loadWeather, 30 * 60000);
   setInterval(renderTrains, 5000);                    // live countdowns and colour changes
   setInterval(function () { loadTrains(view); }, 30000);
   setInterval(loadTube, 120000);
