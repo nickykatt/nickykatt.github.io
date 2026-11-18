@@ -79,7 +79,7 @@ description: Live train departures between Tulse Hill and London Bridge, with a 
   <div class="cb-status" id="cb-status"></div>
 </div>
 
-<p><small>Train data from National Rail Enquiries via the open <a href="https://github.com/jpsingleton/Huxley2">Huxley 2</a> proxy. Tube status from <a href="https://tfl.gov.uk/">Transport for London</a> open data. Weather from <a href="https://open-meteo.com/">Open-Meteo</a>. Times use the expected departure where a train is running late.</small></p>
+<p><small>Train data from National Rail Enquiries (Rail Data Marketplace). Tube status from <a href="https://tfl.gov.uk/">Transport for London</a> open data. Weather from <a href="https://open-meteo.com/">Open-Meteo</a>. Times use the expected departure where a train is running late.</small></p>
 
 <script>
 (function () {
@@ -110,7 +110,7 @@ description: Live train departures between Tulse Hill and London Bridge, with a 
     ]
   };
 
-  var TRAIN_URL = "https://huxley2.azurewebsites.net/departures/";
+  var TRAIN_URL = "https://commute.nicholaskatz45.workers.dev/departures";
   var TUBE_URL = "https://api.tfl.gov.uk/Line/jubilee/Status";
 
   var view = londonNow().h < 12 ? "work" : "home";
@@ -221,7 +221,7 @@ description: Live train departures between Tulse Hill and London Bridge, with a 
 
   function loadTrains(v) {
     var cfg = VIEWS[v];
-    return fetch(TRAIN_URL + cfg.from + "/to/" + cfg.to + "/15?expand=false", { cache: "no-store" })
+    return fetch(TRAIN_URL + "?from=" + cfg.from + "&to=" + cfg.to, { cache: "no-store" })
       .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
       .then(function (j) { data[v] = j; err[v] = false; updated[v] = londonNow().label; })
       .catch(function () { err[v] = true; })
